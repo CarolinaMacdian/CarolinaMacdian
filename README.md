@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarolinaMacdian
 - 👀 I’m interested in FrontEnd Development especially React
-- 🌱 FrontEnd Developer constantly updating my knolage in React
+- 🌱 FrontEnd Developer constantly updating my knowledge in React
 - 💞️ I’m looking to learn and improve new skills.
 - 📫 How to reach me at carolinamacdian@gmail.com
 
